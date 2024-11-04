@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VSTU_LR1</string>
+    <string name="hour">ч.</string>
+    <string name="timer_minute">мин.</string>
+    <string name="timer_second">сек.</string>
+    <string name="timer_start">Начать</string>
+    <string name="timer_cancel">Отмена</string>
+    <string name="timer_pause">Пауза</string>
+    <string name="timer_continue">Продожить</string>
+    <string name="timer_expired">Время истекло!</string>
+</resources>
